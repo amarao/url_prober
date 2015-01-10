@@ -1,0 +1,12 @@
+URL Prober
+
+I'm running few exit nodes on TOR, and I decide to look to the 
+<s>things no one should look</s> pages are visited via TOR.
+I created simple tshark script to catch URI requests on outgoing 
+interface and this script is designed to give some simple analyzis 
+of results.
+
+It takes list of urls from stdin (one per line) and generate
+report. All links to .js, .css, .ico and other useless files
+are ignored, rest is processed.
+
