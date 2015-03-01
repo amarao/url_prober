@@ -1,0 +1,911 @@
+('http://minhateca.com.br/action/ChomikChat/MessagesList', 6) == image hosting
+('http://minhateca.com.br/action/ChomikChat/MessagesList', 6)
+('http://minhateca.com.br/action/ChomikChat/MessagesList', 6)
+('http://vg06.met.vgwort.de/blank.gif', 1) == telecom
+('http://vg06.met.vgwort.de/blank.gif', 1)
+('http://vg06.met.vgwort.de/blank.gif', 1)
+('http://www.bcps.org/board/pac', 1) == school 
+('http://www.bcps.org/board/pac', 1)
+('http://www.bcps.org/board/pac', 1)
+('http://www.newneuro.ru/forum/index.php', 23) == medical forum
+('http://www.newneuro.ru/forum/index.php', 23)
+('http://www.newneuro.ru/forum/index.php', 23)
+('http://www.spbdnevnik.ru/favicon.png', 1) == news
+('http://www.spbdnevnik.ru/files/banner/79_1413965009.jpg', 1)
+('http://www.spbdnevnik.ru/favicon.png', 1)
+('http://www.rferl.org/img/bg_line.gif', 1) == new
+('http://www.rferl.org/img/bg_line.gif', 1)
+('http://www.rferl.org/img/img_mainmenu_separator.png', 1)
+('http://thumbnails50.imagebam.com/17638/ed058d176379758.jpg', 1) == imagehosting/porn?
+('http://thumbnails50.imagebam.com/17639/fde5c0176380845.jpg', 1)
+('http://thumbnails50.imagebam.com/17638/4e5d00176379756.jpg', 1)
+('http://kit..fs.com/', 2) == CP/jailbat
+('http://kit..fs.com/cdn-cgi/l/chk_captcha', 3)
+('http://kit..fs.com/cdn-cgi/images/browser-bar.png', 1)
+('http://femjoy.com/today/pod144w.jpg', 2) == porn
+('http://femjoy.com/today/pod144w.jpg', 2)
+('http://femjoy.com/today/pod144w.jpg', 2)
+('http://tr.strategymonitor.net/track/open.php', 5) == news
+('http://tr.strategymonitor.net/track/open.php', 5)
+('http://tr.strategymonitor.net/track/click/30316215/strategymonitor.net', 2)
+('http://feedback.aliexpress.com/display/DiggShowAjaxService.htm', 1) == internet shop
+('http://feedback.aliexpress.com/ajax_proxy.html', 1)
+('http://feedback.aliexpress.com/iframe_proxy2.html', 1)
+('http://www.forum.anime-skorpik.com/index.php', 1) == online show
+('http://www.forum.anime-skorpik.com/index.php', 1)
+('http://www.forum.anime-skorpik.com/index.php', 1)
+('http://www.ateistru.net/styles/subsilver2/imageset/topic_read_hot.gif', 1) == forum/politics
+('http://www.ateistru.net/styles/subsilver2/imageset/ru/icon_user_profile.gif', 1)
+('http://www.ateistru.net/styles/subsilver2/theme/images/background.gif', 1)
+('http://games-vse.ru/wp-content/themes/iVideoGames/images/nav-seperator.png', 5) == game/news
+('http://games-vse.ru/wp-content/themes/iVideoGames/images/nav-background.png', 5)
+('http://games-vse.ru/wp-content/themes/iVideoGames/images/tag.png', 2)
+('http://www.wattpad.com/86570040-merkill-ahogado-en-un-vaso-de-agua', 2) == books/review
+('http://www.wattpad.com/86570040-merkill-ahogado-en-un-vaso-de-agua', 2)
+('http://www.wattpad.com/86380099-merkill-una-llamada-inesperada', 4)
+('http://cloud.servers.cz/SERVERS-Cloud.png', 3) == hosting
+('http://cloud.servers.cz/SERVERS-Cloud.png', 3)
+('http://cloud.servers.cz/SERVERS-Cloud.png', 3)
+('http://www.nikolay-levashov.ru/Confirms/fot-10.jpg', 1) == cult/newage
+('http://www.nikolay-levashov.ru/Confirms/fot-12.jpg', 1)
+('http://www.nikolay-levashov.ru/Confirms/fot-01.jpg', 1)
+('http://www.career444.com/', 2) == hr/jobs
+('http://www.career444.com/', 2)
+('http://www.career444.com/', 2)
+('http://dominikboehler.de/tags/scalability/', 1) == blog
+('http://dominikboehler.de/tags/scalability/', 1)
+('http://dominikboehler.de/tags/scalability/', 1)
+('http://cs622725.vk.me/v622725913/b910/Tg1yga2OYdo.jpg', 1) == social net
+('http://cs622725.vk.me/v622725913/b910/Tg1yga2OYdo.jpg', 1)
+('http://cs622725.vk.me/v622725913/b910/Tg1yga2OYdo.jpg', 1)
+('http://iceandroid.ru/engine/download.php', 1) == software/mobile
+('http://iceandroid.ru/engine/download.php', 1)
+('http://iceandroid.ru/games/arkady/1445-stickman-snowboarder.html', 1)
+('http://www.lastfm.es/music/Comeback+Kid/Die+Knowing', 1) == music
+('http://www.lastfm.es/music/Comeback+Kid/Die+Knowing', 1)
+('http://www.lastfm.es/music/Comeback+Kid/Die+Knowing', 1)
+('http://www.tenmiendep.com//wp-content/plugins/really-easy-slider/inc/thumb.php', 1) == blog
+('http://www.tenmiendep.com//wp-content/plugins/really-easy-slider/inc/thumb.php', 1)
+('http://www.tenmiendep.com//wp-content/plugins/really-easy-slider/inc/thumb.php', 1)
+('http://www.elka.sklep.pl/logs/oldoppfllfopp/99ed460a90f40c13e4fcdbacf491eb9b%2C%20http%3A/donibaneintranet.educacion.navarra.es/libraries/joomla/application/won.php%2C%20http%3A/paypal.com-update-your-account-information-of-paypal-account-limited.knitpurl.net/78e48a641d21e1ce3a0e32fa76c7e5ae/%2C%20http%3A/mail.fead.biz/%7Etryconne/DiscussionBoards/', 1) 
+('http://www.elka.sklep.pl/logs/oldoppfllfopp/9b30aa0cc411991c86b0be9b7db4fc30/', 1) == internet shop
+('http://www.elka.sklep.pl/logs/oldoppfllfopp/83b819f2dd124fc41b6fccfe2099d137/', 1)
+('http://ghga.siteboard.de/index.php', 1) == forum
+('http://ghga.siteboard.de/index.php', 1)
+('http://ghga.siteboard.de/index.php', 1)
+('http://a0b8475bf335ece67b963eb0185a5e9a4.profile.fra6.cloudfront.net/test.png', 1) == hosting
+('http://a0b8475bf335ece67b963eb0185a5e9a4.profile.fra6.cloudfront.net/test.png', 1)
+('http://a0b8475bf335ece67b963eb0185a5e9a4.profile.fra6.cloudfront.net/test.png', 1)
+('http://filmschoolwtf.com/wp-content/uploads/2014/09/Haider-50x50.jpg', 1) == movies
+('http://filmschoolwtf.com/wp-content/themes/delivery/images/pq.png', 1)
+('http://filmschoolwtf.com/wp-content/themes/forester/images/ico-rss.png', 1)
+('http://95.211.168.15/news/rota/newpics/news/080120151722017247861_2.jpg', 2) = news
+('http://95.211.168.15/news/rota/newpics/news/080120151606527002705_2.jpg', 1)
+('http://95.211.168.15/news/rota/newpics/news/080120151153386396507_2.jpg', 1)
+('http://img100-261.xvideos.com/videos/thumbs/55/b2/95/55b2956502b474eb2bc057c60003577c/55b2956502b474eb2bc057c60003577c.3.jpg', 1) == porn
+('http://img100-261.xvideos.com/videos/thumbs/7a/fb/0e/7afb0e99cbdc81e233b72d9da2e4d090/7afb0e99cbdc81e233b72d9da2e4d090.27.jpg', 1)
+('http://img100-261.xvideos.com/videos/thumbs/7a/fb/0e/7afb0e99cbdc81e233b72d9da2e4d090/7afb0e99cbdc81e233b72d9da2e4d090.27.jpg', 1)
+('http://49.212.130.218/links/800df80e23103e0089cd638c87a054eb.zip', 3) == ???
+('http://49.212.130.218/links/800df80e23103e0089cd638c87a054eb.zip', 3)
+('http://49.212.130.218/links/800df80e23103e0089cd638c87a054eb.zip', 3)
+('http://www.mikolajice.cz/index.php', 1) == hunter club
+('http://www.mikolajice.cz/index.php', 1)
+('http://www.mikolajice.cz/index.php', 1)
+('http://gm-tour58.ru/wp-content/themes/bombax/images/rss.png', 1) == doorway
+('http://gm-tour58.ru/wp-content/themes/bombax/images/twitter.png', 1)
+('http://gm-tour58.ru/wp-content/themes/bombax/images/twitter.png', 1)
+('http://img100-648.xvideos.com/videos/thumbs/07/f8/2f/07f82f56d6ee21e5d9e0d77b60c21441/07f82f56d6ee21e5d9e0d77b60c21441.25.jpg', 1) == porn
+('http://img100-648.xvideos.com/videos/thumbs/6e/7d/5e/6e7d5effec4bb1dedaa2cea54c3cb5d6/6e7d5effec4bb1dedaa2cea54c3cb5d6.12.jpg', 1)
+('http://img100-648.xvideos.com/videos/thumbs/f8/ba/00/f8ba00282587c350b571cda9d3945aa3/f8ba00282587c350b571cda9d3945aa3.16.jpg', 1)
+('http://www.jssna.info/wp-content/plugins/download-manager/readme.txt', 1) == football club
+('http://www.jssna.info/wp-content/plugins/download-manager/readme.txt', 1)
+('http://www.jssna.info/wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.php', 1)
+('http://cs6045.vk.me/v6045152/d467/fxBFhEN9sn0.jpg', 1) == social network
+('http://cs6045.vk.me/v6045152/d467/fxBFhEN9sn0.jpg', 1)
+('http://cs6045.vk.me/v6045152/d467/fxBFhEN9sn0.jpg', 1)
+('http://img100-753.xvideos.com/videos/thumbs/60/ef/77/60ef775e3f963140ea067adfa23c44e3/60ef775e3f963140ea067adfa23c44e3.29.jpg', 1) == porn
+('http://img100-753.xvideos.com/videos/thumbs/68/07/9c/68079c76c4c4a99e1974d40977b95d4f/68079c76c4c4a99e1974d40977b95d4f.4.jpg', 2)
+('http://img100-753.xvideos.com/videos/thumbs/cd/5e/81/cd5e81ea2cc3fd6ff21203c6ccb17200/cd5e81ea2cc3fd6ff21203c6ccb17200.18.jpg', 1)
+('http://content.publicdisgrace.com/g/publicdisgrace/2257/h/m/5/5777_m_PD.jpg', 1) == porn/hurtcore/play
+('http://content.publicdisgrace.com/imagedb/14678/i/h/125/2.jpg', 1)
+('http://content.publicdisgrace.com/imagedb/14678/i/h/125/8.jpg', 1)
+('http://reno.craigslist.org/syd/4835995961.html', 1) == internet shop
+('http://reno.craigslist.org/syd/4835995961.html', 1)
+('http://reno.craigslist.org/syd/4835995961.html', 1)
+('http://y72yuyr9.com/jquery/im1.php', 1)  == adv.
+('http://y72yuyr9.com/jquery/po1.php', 1)
+('http://y72yuyr9.com/jquery/po1.php', 1)
+('http://www.panasonic.com/business/projectors/ET-PKE200H.asp', 1) == h/w vendor
+('http://www.panasonic.com/business/projectors/ET-PKE200H.asp', 1)
+('http://www.panasonic.com/business/projectors/ET-PKE200H.asp', 1)
+('http://bindhahi.com/etc/passwd%00/labour-employment/', 2) == Corporate, hack attempt
+('http://bindhahi.com/etc/passwd%00/labour-employment/', 2)
+('http://bindhahi.com/index.php//etc/passwd%00/intellectual-property/', 1)
+('http://liza.ua/salat-kolokolchik-s-monetkami/', 1) ==  cooking
+('http://liza.ua/salat-kolokolchik-s-monetkami/', 1)
+('http://liza.ua/salat-kolokolchik-s-monetkami/', 1)
+('http://q78.queuev4.vk.com/q_frame.php', 1) == social network
+('http://q78.queuev4.vk.com/im107', 5)
+('http://q78.queuev4.vk.com/im107', 5)
+('http://populationhealthsciences.org/forum/index.php', 1) == university
+('http://populationhealthsciences.org/forum/index.php', 1)
+('http://populationhealthsciences.org/forum/index.php', 1)
+('http://translate.enacademic.com/treskhet/xx/xx/1', 1) == dictionary
+('http://translate.enacademic.com/tollvisitasjon/xx/xx/1', 1)
+('http://translate.enacademic.com/tollvisitasjon/xx/xx/1', 1)
+('http://link.hertz.com/link.html', 1) == car rental
+('http://link.hertz.com/link.html', 1)
+('http://link.hertz.com/link.html', 1)
+('http://abbonati.tiscali.it/inc/coverage_check/v006/callGateway.php', 812) == telecom
+('http://abbonati.tiscali.it/inc/coverage_check/v006/callGateway.php', 812)
+('http://abbonati.tiscali.it/inc/coverage_check/v006/callGateway.php', 812)
+('http://dev.backpackingparadise.com/discussion/ucp.php', 1) == travel
+('http://dev.backpackingparadise.com/discussion/ucp.php', 1)
+('http://dev.backpackingparadise.com/discussion/ucp.php', 1)
+('http://img1.badfon.ru/wallpaper/small/f/e5/los-les-priroda-628.jpg', 1) == wallpapers
+('http://img1.badfon.ru/wallpaper/small/f/e5/los-les-priroda-628.jpg', 1)
+('http://img1.badfon.ru/wallpaper/small/f/e5/los-les-priroda-628.jpg', 1)
+('http://img100-556.xvideos.com/videos/thumbsll/57/af/4c/57af4c6cb170a2d3deec9b2c4705223f/57af4c6cb170a2d3deec9b2c4705223f.2.jpg', 1) == porn
+('http://img100-556.xvideos.com/videos/thumbs/e1/f7/d7/e1f7d788e21bba6b755b3ac2ff3f3cda/e1f7d788e21bba6b755b3ac2ff3f3cda.14.jpg', 1)
+('http://img100-556.xvideos.com/videos/thumbs/96/43/ff/9643ff7eab228b7a3076108f8cbc3e1f/9643ff7eab228b7a3076108f8cbc3e1f.3.jpg', 1)
+('http://img59.imagetwist.com/th/07609/8wp9kki13lbu.jpg', 1) == porn
+('http://img59.imagetwist.com/th/07609/m0wc4ltx53p3.jpg', 1)
+('http://img59.imagetwist.com/i/07610/gokzzotxuxlh.jpeg', 1)
+('http://www.eurosport.fr/_ajax_/live_v8/livebox_v8.zone', 1) == news
+('http://www.eurosport.fr/_ajax_/live_v8/livebox_v8.zone', 1)
+('http://www.eurosport.fr/_ajax_/live_v8/livebox_v8.zone', 1)
+('http://www.*chan.org/rotate.php', 1)  - imageboard, /lo (art), /porn
+('http://www.*chan.org/image.php', 62)
+('http://www.*chan.org/image.php', 62)
+('http://keenlykristin.com/', 2) == shopping/blog
+('http://keenlykristin.com/', 2)
+('http://keenlykristin.com/', 2)
+('http://picchan.org/s/src/141450088340.jpg', 1) == imageboard, /porn
+('http://picchan.org/s/src/141450088340.jpg', 1)
+('http://picchan.org/s/thumb/141283523558s.jpg', 1)
+('http://static.parastorage.com/sites/a55f1e_8ec822e679cb2a50c539cfca96e0b279_285.json.z', 2) === ???
+('http://static.parastorage.com/sites/a55f1e_fb2e88538d42a3afcbde8119c20de1d5_285.json.z', 2)
+('http://static.parastorage.com/sites/a55f1e_8ec822e679cb2a50c539cfca96e0b279_285.json.z', 2)
+('http://cs311617.vk.me/v311617893/4efe/9kwe2FOtMFU.jpg', 1) == social network
+('http://cs311617.vk.me/v311617893/4efe/9kwe2FOtMFU.jpg', 1)
+('http://cs311617.vk.me/v311617893/4efe/9kwe2FOtMFU.jpg', 1)
+('http://kame-house.org/', 1) == blog/anime
+('http://kame-house.org/', 1)
+('http://kame-house.org/', 1)
+('http://brightenonline.com/etc/passwd%00/', 1) == corporate, hacking attempt
+('http://brightenonline.com/etc/passwd%00/', 1)
+('http://brightenonline.com/etc/passwd%00/', 1)
+('http://chrome1.yowindow.com/cgi-bin/wimo/server/index.pl', 2) == application/mobile
+('http://chrome1.yowindow.com/cgi-bin/wimo/server/index.pl', 2)
+('http://chrome1.yowindow.com/cgi-bin/wimo/server/index.pl', 2)
+('http://jb*****.biz/styles/subsilver2/theme/images/topic_read.gif', 1) == CP/softcore
+('http://jb*****.biz/styles/subsilver2/theme/images/topic_read_locked.gif', 1)
+('http://jb*****.biz/styles/subsilver2/theme/images/cellpic1.gif', 1)
+('http://c1.adform.net/serving/cookie/match/', 109) == adv
+('http://c1.adform.net/serving/cookie/match/', 109)
+('http://c1.adform.net/serving/cookie/match/', 109)
+('http://bethdavid.com/wp-content/plugins/grapefile/grapeupload.php', 1) == religion
+('http://bethdavid.com/wp-content/plugins/grapefile/grapeupload.php', 1)
+('http://bethdavid.com/wp-content/plugins/grapefile/grapeupload.php', 1)
+('http://psry.net/foorumi/index.php', 1) == motoclub/forum
+('http://psry.net/foorumi/index.php', 1)
+('http://psry.net/foorumi/index.php', 1)
+('http://nd.alliance1.org/comment/reply/33++++++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:11370', 1) == health organization/hacking attempt
+('http://nd.alliance1.org/comment/reply/33++++++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:10170', 1)
+('http://nd.alliance1.org/comment/reply/33++++++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:10170', 1)
+('http://www.pornbbwpics.com/', 1) == porn
+('http://www.pornbbwpics.com/', 1)
+('http://www.pornbbwpics.com/', 1)
+('http://24349.z123.info/plugins/plus_ffcms2.9.zip', 1) == ???
+('http://24349.z123.info/plugins/plus_ffcms2.9.zip', 1)
+('http://24349.z123.info/plugins/plus_ffcms2.9.zip', 1)
+('http://i1-js-14-3-01-13960-975081964-i.init.cedexis-radar.net/i1/1420849530/975081964/jsonp', 1) == hosting
+('http://i1-js-14-3-01-13960-975081964-i.init.cedexis-radar.net/i1/1420849530/975081964/jsonp', 1)
+('http://i1-js-14-3-01-13960-975081964-i.init.cedexis-radar.net/i1/1420849530/975081964/jsonp', 1)
+('http://centrexity.com/preload', 18) == music/author
+('http://centrexity.com/preload', 18)
+('http://centrexity.com/preload', 18)
+('http://breaksmag.com/wp-content/plugins/firestats/php/tools/get_config.php', 1) == sport/blog
+('http://breaksmag.com/wp-content/plugins/firestats/php/tools/get_config.php', 1)
+('http://breaksmag.com/wp-content/plugins/radykal-fancy-gallery/admin/image-upload.php', 1)
+('http://unijrba.org.br/forum/', 1) == corp
+('http://unijrba.org.br/forum/', 1)
+('http://unijrba.org.br/forum/', 1)
+('http://cs6140.vk.me/v6140110/1bf7/xSbgRDvEtLE.jpg', 1) == social network
+('http://cs6140.vk.me/v6140110/1bf7/xSbgRDvEtLE.jpg', 1)
+('http://cs6140.vk.me/v6140110/1bf7/xSbgRDvEtLE.jpg', 1)
+('http://v-kus.ru/administrator/index.php', 338) == cooking/blog
+('http://v-kus.ru/administrator/index.php', 338)
+('http://v-kus.ru/administrator/index.php', 338)
+('http://forum.hobbytula.ru/index.php', 6) == internet shop
+('http://forum.hobbytula.ru/index.php', 6)
+('http://forum.hobbytula.ru/index.php', 6)
+('http://hea.chinabyte.com/zt/pkwf/text/javascript', 1) == internet shop
+('http://hea.chinabyte.com/zt/pkwf/text/javascript', 1)
+('http://hea.chinabyte.com/zt/pkwf/text/javascript', 1)
+('http://bsmedia.business-standard.com/include/_mod/site/images/icons.png', 2) == news
+('http://bsmedia.business-standard.com/include/_mod/site/images/buttonBG.png', 2)
+('http://bsmedia.business-standard.com/include/_mod/site/images/optionDDLft.png', 2)
+('http://www.martinassociates.co.uk/wp-login.php', 1) == fitness
+('http://www.martinassociates.co.uk/', 1)
+('http://www.martinassociates.co.uk/', 1)
+('http://network.gofeminin.de/shim.gif', 1) == ad
+('http://network.gofeminin.de/call2/pubjall/4/47710/14/1876727915/popoutok', 1)
+('http://network.gofeminin.de/call2/pubjall/4/47710/14/1876727915/popoutok', 1)
+('http://kamni-ufa.ru/images/gorodkamnya/uzor5.png', 1) == internet shop
+('http://kamni-ufa.ru/images/gorodkamnya/rita/interier/arki/img_2091.jpg', 1)
+('http://kamni-ufa.ru/images/gorodkamnya/rita/interier/skachat.jpg', 1)
+('http://www.russianphlox.com/forum/viewtopic.php', 1) == flower club
+('http://www.russianphlox.com/forum/viewtopic.php', 1)
+('http://www.russianphlox.com/forum/viewtopic.php', 1)
+('http://154.56.81.83/key=QPa3XYPEUGg,end=1420803678/data=W3mf,7E3BEE5B/speed=150000/buffer=750000/reftag=5412162/1/21/9/6347659/1880299.flv', 1) == ???
+('http://154.56.81.83/key=g0qgRljtnPI,end=1420610976/data=W3mf,B9979BB9/speed=150000/buffer=3277958/reftag=5412162/2/21/1/6337111/603438.mp4', 3)
+('http://154.56.81.83/key=Gn4y.nEeuk.,end=1420779716/data=W3mf,20E88255/speed=150000/buffer=750000/reftag=5412162/2/21/9/5679479/1705894.flv', 7)
+('http://ps3.pubnub.com/time/0', 5) == hosting
+('http://ps3.pubnub.com/time/0', 5)
+('http://ps3.pubnub.com/time/0', 5)
+('http://tokyopornvideos.com/bannerx.php', 20) == porn
+('http://tokyopornvideos.com/bannerx.php', 20)
+('http://tokyopornvideos.com/bannerx.php', 20)
+('http://x-images46.bangbros.com/tugjobs/shoots/hj6969/members/180x135.jpg', 1) == porn 
+('http://x-images46.bangbros.com/monstersofcock/shoots/mc7081/members/180x135.jpg', 1)
+('http://x-images46.bangbros.com/monstersofcock/shoots/mc7081/members/180x135.jpg', 1)
+('http://img12.iol.it/s/i/natodigitale/med/l-indispensabile-e-invisibile-agli-occhi-infatti-la-wifi-non-si-vede.jpg', 1) == news
+('http://img12.iol.it/s/i/natodigitale/med/quella-digitale-e-una-seconda-natura.jpg', 1)
+('http://img12.iol.it/s/i/notizie/big/doppio-blitz-uccisi-i-fratelli-e-il-terzo-uomo.jpg', 1)
+('http://www.setcorp.ru/main/pressrelease.phtml', 1) == corp
+('http://www.setcorp.ru/main/pressrelease.phtml', 1)
+('http://www.setcorp.ru/main/pressrelease.phtml', 1)
+('http://www.indeed.com.br/empregos', 10) == Corp
+('http://www.indeed.com.br/empregos', 10)
+('http://www.indeed.com.br/empregos', 10)
+('http://dxv65l5icbnvl.cloudfront.net/i', 2) == ???
+('http://dxv65l5icbnvl.cloudfront.net/i', 2)
+('http://dxv65l5icbnvl.cloudfront.net/i', 2)
+('http://www.klamm-marktplatz.de/images/banner/468x60.gif', 1) == finances
+('http://www.klamm-marktplatz.de/images/banner/468x60.gif', 1)
+('http://www.klamm-marktplatz.de/images/banner/468x60.gif', 1)
+('http://bearings-fear.clan.su/forum/5-5207-1+++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9754', 1) == gaming club
+('http://bearings-fear.clan.su/forum/5-5207-1+++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9754', 1)
+('http://bearings-fear.clan.su/forum/5-5207-1+++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9754', 1)
+('http://cdneu.clickmeinstats.com/ofr/Casadocasad/Casadocasad_111114.cis', 2) == ???
+('http://cdneu.clickmeinstats.com/ofr/Casadocasad/Casadocasad_111114.cis', 2)
+('http://cdneu.clickmeinstats.com/ofr/Casadocasad/Casadocasad_111114.cis', 2)
+('http://higgsboson8.spankbang.com/1/6/166707-hi.mp4', 4) == porn
+('http://higgsboson8.spankbang.com/1/6/166707-hi.mp4', 4)
+('http://higgsboson8.spankbang.com/1/6/166707-hi.mp4', 4)
+('http://2576419.fls.doubleclick.net/activityi', 4) == ad
+('http://2576419.fls.doubleclick.net/activityi', 4)
+('http://2576419.fls.doubleclick.net/activityi', 4)
+('http://s.011st.com/img/prdc/ico_seller2.gif', 2) == internet shop
+('http://s.011st.com/img/product/no_image_100.gif', 1)
+('http://s.011st.com/img/social_v2/no_pic.gif', 3)
+('http://www.netrenda.com/uploads/banners/banner-banner3.gif', 1) == finances
+('http://www.netrenda.com/uploads/banners/banner-banner3.gif', 1)
+('http://www.netrenda.com/uploads/banners/banner-banner3.gif', 1)
+('http://brooksideprimary.com/images/uploads/prospectus.pdf//etc/passwd%00', 1) ==  school site / hacking
+('http://brooksideprimary.com/index.php/8-brochure/1-home-brooksideprimary-school.html', 1)
+('http://brooksideprimary.com/index.php/8-brochure/1-home-brooksideprimary-school.html', 1)
+('http://dl4alldownloads.blogspot.fr/feeds/posts/summary', 1) == software
+('http://dl4alldownloads.blogspot.fr/', 3)
+('http://dl4alldownloads.blogspot.fr/', 3)
+('http://kuliah-shift-ksm-blambanganumpu.beasiswa-beasiswa.info/_g.php', 1)  == post board / bbs
+('http://kuliah-shift-ksm-blambanganumpu.beasiswa-beasiswa.info/_g.php', 1)
+('http://kuliah-shift-ksm-blambanganumpu.beasiswa-beasiswa.info/_g.php', 1)
+('http://www.realitatea.md/images/print_14094.gif', 1)  == news
+('http://www.realitatea.md/securimage_show.php', 2)
+('http://www.realitatea.md/images/print_14094.gif', 1)
+('http://analytics.cic.de/piwik.php', 1) == software/mobile
+('http://analytics.cic.de/piwik.php', 1)
+('http://analytics.cic.de/piwik.php', 1)
+('http://samjinresort.co.kr/preview/room1/view2.html', 1)  == ???
+('http://samjinresort.co.kr/preview/room1/view2.html', 1)
+('http://samjinresort.co.kr/preview/room1/view2.html', 1)
+('http://dtm.eddiebauer.com/rubicon/match', 1) == ??
+('http://dtm.eddiebauer.com/dmm/casale/match', 1)
+('http://dtm.eddiebauer.com/rubicon/match', 1)
+('http://injkomp.ru/includes/guest/index.php', 1) == not working/hosting
+('http://injkomp.ru/includes/guest/index.php', 1)
+('http://injkomp.ru/includes/guest/index.php', 1)
+('http://dtm.potterybarnkids.com/rubicon/match', 1) == ???
+('http://dtm.potterybarnkids.com/rubicon/match', 1)
+('http://dtm.potterybarnkids.com/rubicon/match', 1)
+('http://bonusgiftcard.com/wp-content/plugins/asset-manager/upload.php', 1) == blog/empty
+('http://bonusgiftcard.com/wp-content/plugins/asset-manager/upload.php', 1)
+('http://bonusgiftcard.com/wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php', 1)
+('http://cdn.perucom3.e3.pe/f/viajes2/fonts/oswald-webfont.woff', 1) == hosting
+('http://cdn.perucom3.e3.pe/f/viajes2/fonts/oswald-webfont.woff', 1)
+('http://cdn.perucom3.e3.pe/f/viajes2/fonts/oswald-webfont.woff', 1)
+('http://www.vivastreet.com/', 1) == social network
+('http://www.vivastreet.com/account_classifieds.php', 1)
+('http://www.vivastreet.com/', 1)
+('http://json.mirror.co.uk/news/gallery/pictures-new-years-night-boozing-4902142', 2) == news
+('http://json.mirror.co.uk/news/gallery/pictures-new-years-night-boozing-4902142', 2)
+('http://json.mirror.co.uk/news/gallery/pictures-new-years-night-boozing-4902142', 2)
+('http://it2.forgeofempires.com/game/json', 16) == online game
+('http://it2.forgeofempires.com/game/json', 16)
+('http://it2.forgeofempires.com/game/json', 16)
+('http://www.leadership-branding.de/', 1) = Corp
+('http://www.leadership-branding.de/', 1)
+('http://www.leadership-branding.de/', 1)
+('http://i0.poll.fm/images/ratings/info.png', 2) == online polling / Corp
+('http://i0.poll.fm/images/ratings/info.png', 2)
+('http://i0.poll.fm/images/white-grad.png', 4)
+('http://images.primewire.ag/thumbs/2694935_Sister_Wives_2010.jpg', 1) == online theater
+('http://images.primewire.ag/thumbs/2756312_88_1969.jpg', 1)
+('http://images.primewire.ag/thumbs/2741749_A_Football_Life_2011.jpg', 1)
+('http://cul.qq.com/a/20150103/1.0.0.6', 1) == instant messager
+('http://cul.qq.com/a/20150103/1.0.0.6', 1)
+('http://cul.qq.com/a/20150104/)', 1)
+('http://www.diariodemallorca.es/servicios/usuarios/vacio.html', 1) == news
+('http://www.diariodemallorca.es/elementosWeb/mediaweb/images1010/pie/logo_pie.jpg', 1)
+('http://www.diariodemallorca.es/elementosWeb/mediaweb/images1010/pie/logo_pie.jpg', 1)
+('http://chirurgie-esthetique-france.fr/index.php', 1) == forum
+('http://chirurgie-esthetique-france.fr/posting.php', 6)
+('http://chirurgie-esthetique-france.fr/viewforum.php', 2)
+('http://bikarouk.com/index.php', 3) == blog/travel
+('http://bikarouk.com/index.php', 3)
+('http://bikarouk.com/index.php', 3)
+('http://domvorona.ucoz.ru/forum/17-3563-1', 1) == closed/ ???
+('http://domvorona.ucoz.ru/forum/17-3563-1', 1)
+('http://domvorona.ucoz.ru/forum/17-3563-1', 1)
+('http://bjsengg.com/index.php', 2) == Corp
+('http://bjsengg.com/index.php', 2)
+('http://bjsengg.com/index.php', 2)
+('http://www.uaeboost.net/forums/index.php', 1)  == forum /cars
+('http://www.uaeboost.net/', 1)
+('http://www.uaeboost.net/forums/index.php', 1)
+('http://cuff-links.ru/catalog/view/theme/lexus_giftshop/image/pattern/pattern1.png', 3) == internet shop
+('http://cuff-links.ru/catalog/view/theme/lexus_giftshop/image/pattern/pattern19.png', 3)
+('http://cuff-links.ru/catalog/view/theme/lexus_giftshop/image/pattern/pattern9.png', 3)
+('http://n5.ad.ad-srv.net/request_content.php', 1) == ad
+('http://n5.ad.ad-srv.net/request_content.php', 1)
+('http://n5.ad.ad-srv.net/request_content.php', 1)
+('http://www.discounto.de/Angebot/Einhell-Saeulenbohrmaschine-BT-BD-401-771272/', 1) == internet shop
+('http://www.discounto.de/Angebot/Einhell-Saeulenbohrmaschine-BT-BD-401-771272/', 1)
+('http://www.discounto.de/Angebot/Einhell-Saeulenbohrmaschine-BT-BD-401-771272/', 1)
+('http://ptp-cash.net/pg_avant_gains33.php', 10) == ad/seo
+('http://ptp-cash.net/pg_avant_gains33.php', 10)
+('http://ptp-cash.net/promote7.php', 8)
+('http://forum.real-estateagents.org/index.php', 1) == real estate/forum
+('http://forum.real-estateagents.org/index.php', 1)
+('http://forum.real-estateagents.org/index.php', 1)
+('http://graal.123.st/', 1) == esoteric
+('http://graal.123.st/', 1)
+('http://graal.123.st/', 1)
+('http://seobudget.ru/images/updates/yandex.gif', 1) == ad/seo
+('http://seobudget.ru/images/updates/yandex.gif', 1)
+('http://seobudget.ru/images/updates/yandex.gif', 1)
+('http://killzone.wikia.com/wiki/All_Flavors', 1) == gaming
+('http://killzone.wikia.com/wiki/All_Flavors', 1)
+('http://killzone.wikia.com/wiki/All_Flavors', 1)
+('http://www.totalstuntage.com/login/', 8) == forum / empty
+('http://www.totalstuntage.com/login/', 8)
+('http://www.totalstuntage.com/index.php', 8)
+('http://cdn.engine.trklnks.com/Scripts/cms', 8) == ad
+('http://cdn.engine.trklnks.com/Scripts/infinity.js.aspx', 11)
+('http://cdn.engine.trklnks.com/Scripts/infinity.js.aspx', 11)
+('http://bingshop.com/brands/2-brands', 1) == internet shop
+('http://bingshop.com/brands/2-brands', 1)
+('http://bingshop.com/brands/2-brands', 1)
+('http://cdn2.wearehairy.com/models/Silviya/Silviya_finger_fucks_her_juicy_bush/th/Silviya_Sofa_078.jpg', 1) == porn
+('http://cdn2.wearehairy.com/models/Silviya/Silviya_finger_fucks_her_juicy_bush/th/Silviya_Sofa_052.jpg', 1)
+('http://cdn2.wearehairy.com/thumbs/1320-set.jpg', 1)
+('http://www.njobs.it/red/n/b4ecabee651e53121e952c9ed8f7a4b51', 1) == hr
+('http://www.njobs.it/red/n/b4ecabee651e53121e952c9ed8f7a4b51', 1)
+('http://www.njobs.it/red/n/b4ecabee651e53121e952c9ed8f7a4b51', 1)
+('http://pub.dreamboxcart.com/yf/7281.html', 1) == ???
+('http://pub.dreamboxcart.com/yf/7281.html', 1)
+('http://pub.dreamboxcart.com/yf/7281.html', 1)
+('http://www.idealista.it/affitto-negozi/cosenza-provincia/', 1) == real estate
+('http://www.idealista.it/vendita-garage/bergamo-provincia/', 1)
+('http://www.idealista.it/vendita-garage/bergamo-provincia/', 1)
+('http://a.ligatus.com/timeout.php', 30) == ad
+('http://a.ligatus.com/', 30) 
+('http://a.ligatus.com/timeout.php', 30)
+('http://x1.fap.to/images/thumb/51/116/1165299348.jpg', 1) == porn
+('http://x1.fap.to/images/thumb/46/668/668687784.jpg', 1)
+('http://x1.fap.to/images/mini/53/859/859995260.jpg', 2)
+('http://111.250.194.212/lS+h1TqIojxdc-hGqHt1RAOES8MuieE4k8-J78wzPMng7ev59-I0SsW', 1) == ???
+('http://111.250.194.212/lS+h1TqIojxdc-hGqHt1RAOES8MuieE4k8-J78wzPMng7ev59-I0SsW', 1)
+('http://111.250.194.212/lS+h1TqIojxdc-hGqHt1RAOES8MuieE4k8-J78wzPMng7ev59-I0SsW', 1)
+('http://154.56.81.77/key=5S7uMuXya3Q,end=1420745204/data=W3mf,97326F92/speed=150000/buffer=1242863/reftag=5412162/1/21/2/15298682/3264207.mp4', 4) == ???
+('http://154.56.81.77/key=OyXbY--Xpfg,,end=1420548338/data=W3mf/speed=2829875/buffer=6984647/reftag=5412151/ssd/23/1/11202781/480p/3566186.mp4', 1)
+('http://154.56.81.77/key=4n.PVs-wX.6,end=1420830077/data=W3mf/speed=1079416/buffer=1079416/reftag=5412172/2/26/1/15917241/2014-08/88714b21429e97b1852e4b9520ad0e89.flv', 1)
+('http://mynovoros.ru/wp-content/themes/healthydiet/images/wrapper.jpg', 1) == health
+('http://mynovoros.ru/wp-content/themes/healthydiet/images/h2bg.png', 1)
+('http://mynovoros.ru/localStorage/pics/imagespage/siteimages/thumbnails/2014.08.24_medicina_655b7345110.jpg', 1)
+('http://paypal-sicherheit.co/de/konflikt/src%3Dde', 1) == scam
+('http://paypal-sicherheit.co/de/konflikt/src%3Dde', 1)
+('http://paypal-sicherheit.co/de/konflikt/src%3Dde', 1)
+('http://reeka-model.com/banners/banner1.gif', 1) == ??
+('http://reeka-model.com/banners/banner1.gif', 1)
+('http://reeka-model.com/banners/banner1.gif', 1)
+('http://progzar.blogspot.com/ncr/', 1) == SEO
+('http://progzar.blogspot.com/ncr/', 1)
+('http://progzar.blogspot.com/', 4)
+('http://billdurhammusic.com/etc/passwd%00/news/', 1) == music / hacking attempt
+('http://billdurhammusic.com/etc/passwd%00/news/', 1)
+('http://billdurhammusic.com/etc/passwd%00/news/', 1)
+('http://video.sexylingerietgp.com/snaps/1/10/9336/1s.jpg', 1) == porn
+('http://video.sexylingerietgp.com/snaps/1/10/9336/1s.jpg', 1)
+('http://video.sexylingerietgp.com/snaps/1/10/9336/1s.jpg', 1)
+('http://bonniepomfret.com/index.php', 1) == music
+('http://bonniepomfret.com/index.php', 1)
+('http://bonniepomfret.com/index.php', 1)
+('http://olx.pl/oferta/kasjer-od-zaraz-wola-CID4-ID7L6GZ.html', 1) == hr
+('http://olx.pl/nieruchomosci/mieszkania-sprzedaz/', 2)
+('http://olx.pl/oferta/przedstawiciel-firmy-finansowej-w-miastku-CID4-ID70FZP.html', 1)
+('http://tpr2.cbsistatic.com/hub/i/r/2015/01/05/87bd88de-820c-4e31-a2b7-3bd80ed2dedb/thumbnail/220x165/781b97a5ee61e8cbb84ac4d353333972/hp-zvr-right-facing-2.jpg', 1) == medical
+('http://tpr2.cbsistatic.com/hub/i/r/2015/01/05/87bd88de-820c-4e31-a2b7-3bd80ed2dedb/thumbnail/220x165/781b97a5ee61e8cbb84ac4d353333972/hp-zvr-right-facing-2.jpg', 1)
+('http://tpr2.cbsistatic.com/hub/i/r/2015/01/05/87bd88de-820c-4e31-a2b7-3bd80ed2dedb/thumbnail/220x165/781b97a5ee61e8cbb84ac4d353333972/hp-zvr-right-facing-2.jpg', 1)
+('http://www.lapetiteauberge-hohwald.com/', 1) == restaurant
+('http://www.lapetiteauberge-hohwald.com/', 1)
+('http://www.lapetiteauberge-hohwald.com/', 1)
+('http://thumb10.shutterstock.com/display_pic_with_logo/790342/151189343/stock-vector-modern-ui-flat-design-vector-kit-in-trendy-color-with-abstract-simple-mobile-phone-and-digital-151189343.jpg', 1) == image collection
+('http://thumb10.shutterstock.com/display_pic_with_logo/1099286/178883123/stock-vector-surface-with-cracked-paint-seamless-grunge-background-178883123.jpg', 1)
+('http://thumb10.shutterstock.com/display_pic_with_logo/2405261/210883417/stock-vector-color-walls-with-big-crack-210883417.jpg', 1)
+('http://adcdnx.com/p.php', 11) == ??
+('http://adcdnx.com/p.php', 11)
+('http://adcdnx.com/p.php', 11)
+('http://rate.msfsob.com/review', 1) == malvare
+('http://rate.msfsob.com/review', 1)
+('http://rate.msfsob.com/review', 1)
+('http://www.onrock.ru/files/userbars/soad/soad4.jpg', 1) == hosting
+('http://www.onrock.ru/files/userbars/soad/soad4.jpg', 1)
+('http://www.onrock.ru/files/userbars/soad/soad4.jpg', 1)
+('http://helikonija31.beon.ru/44237-032-no-ja-ne-lider-gt-lt-ja-ne-nastol-ko-vysokomernaja-i-jegoistichna-kak-tut-opisanno.zhtml', 1) == blog
+('http://helikonija31.beon.ru/44237-032-no-ja-ne-lider-gt-lt-ja-ne-nastol-ko-vysokomernaja-i-jegoistichna-kak-tut-opisanno.zhtml', 1)
+('http://helikonija31.beon.ru/44237-032-no-ja-ne-lider-gt-lt-ja-ne-nastol-ko-vysokomernaja-i-jegoistichna-kak-tut-opisanno.zhtml', 1)
+('http://dc96.s400.meetrics.net/bb-mx/revoke', 3) == ad
+('http://dc96.s400.meetrics.net/bb-mx/submit', 13)
+('http://dc96.s400.meetrics.net/bb-mx/submit', 13)
+('http://www.nakuz.com/bbs/space.php', 1) == gaming
+('http://www.nakuz.com/bbs/space.php', 1)
+('http://www.nakuz.com/bbs/space.php', 1)
+('http://goldforrescue.org/', 2) == corp / pets
+('http://goldforrescue.org/', 2)
+('http://goldforrescue.org/', 2)
+('http://www.monova.org/a-top-2.png', 1) == torrents
+('http://www.monova.org/search.php', 3)
+('http://www.monova.org/torrent/7243072/Eric_Clapton_Guitar_Festival_-_Crossroads_%28Disc_2%29%282013%29_%28Blues%2C_BDRip_720p%29.html', 1)
+('http://kiev-mama.com.ua/forums', 1) == family / forum
+('http://kiev-mama.com.ua/account/login', 2)
+('http://kiev-mama.com.ua/account/login', 2)
+('http://www.fanpop.com/site/find_image/Icons-funny-icons-1312939-75-75', 1) == movies / social network
+('http://www.fanpop.com/site/find_image/Icons-funny-icons-1312939-75-75', 1)
+('http://www.fanpop.com/site/find_image/Icons-funny-icons-1312939-75-75', 1)
+('http://cdn2.pics.cdn-xxxblackbook.com/15/4/callee244/profile/90x90.jpg,http://cdn2.pics.cdn-xxxblackbook.com/11/0/bluestar54/profile/90x90.jpg', 1) == adult / social network
+('http://cdn2.pics.cdn-xxxblackbook.com/13/16/tunerjunior44/profile/90x90.jpg', 1)
+('http://cdn2.pics.cdn-xxxblackbook.com/16/20/all4u2use/profile/90x90.jpg,http://cdn2.pics.cdn-xxxblackbook.com/0/7/jayhours/profile/90x90.jpg,http://cdn2.pics.cdn-xxxblackbook.com/7/11/topguy10000/profile/90x90.jpg', 1)
+('http://novosibirsk.mnogonado.net/logo31x31.gif', 3) == internet shop
+('http://novosibirsk.mnogonado.net/logo31x31.gif', 3)
+('http://novosibirsk.mnogonado.net/logo31x31.gif', 3)
+('http://www.06153.com.ua/rss', 1) == news
+('http://www.06153.com.ua/rss', 1)
+('http://www.06153.com.ua/rss', 1)
+('http://stmkmarket.ru/design/130109/img/hm-home.jpg', 2) == internet shop
+('http://stmkmarket.ru/img/small/shutatur_energy-Briliant.jpg', 1)
+('http://stmkmarket.ru/design/130109/img/left_top_ugol.gif', 2)
+('http://ptfingerboard.blogspot.com/2008/01/bem-finalmente-sairam-as-novas-rodas-da.html', 1) == blog/music
+('http://ptfingerboard.blogspot.com/2008/01/bem-finalmente-sairam-as-novas-rodas-da.html', 1)
+('http://ptfingerboard.blogspot.com/2008/01/bem-finalmente-sairam-as-novas-rodas-da.html', 1)
+('http://www.robocommunity.com/forum/thread/19222/WowWee-Komodo-Dragon-2001-IR-control-codes-needed./+Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9220', 1) == club/engeneering
+('http://www.robocommunity.com/forum/thread/19222/WowWee-Komodo-Dragon-2001-IR-control-codes-needed./+Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9220', 1)
+('http://www.robocommunity.com/forum/thread/12567/Elvis-Video-Skinless-and-to-become-the-Elvinator-Project/+Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:10953', 1)
+('http://adobur.com/services/ftype', 1) == Corp
+('http://adobur.com/services/nslookup', 10)
+('http://adobur.com/services/nslookup', 10)
+('http://inlinearespirando.it/olf', 1) == ??? / password protected
+('http://inlinearespirando.it/olf', 1)
+('http://inlinearespirando.it/olf', 1)
+('http://open.lge.co.kr/link/it/2015/promo/monitor/january/academy/gmarket/img/02.jpg', 1) == Corp
+('http://open.lge.co.kr/link/it/2015/promo/monitor/january/academy/auction/img/02.jpg', 1)
+('http://open.lge.co.kr/link/it/2015/promo/monitor/january/academy/gmarket/img/01.jpg', 1)
+('http://www.deheerenopdebrink.nl/undefined', 32) == Corp
+('http://www.deheerenopdebrink.nl/undefined', 32)
+('http://www.deheerenopdebrink.nl/undefined', 32)
+('http://im86v4.vk.com/im0725', 5) == social network
+('http://im86v4.vk.com/im0725', 5)
+('http://im86v4.vk.com/im0725', 5)
+('http://kino-rooms.pw/static/FgVETHFKXxsbGx4hMhpMXHAlGRs6ASdaETw5THRbCSINbVFNU21ccRd6RBdRA3dTBg/', 1) == movies
+('http://kino-rooms.pw/static/FgVETHFKXxsbGx4hMhpMXHA1EBs6ASdaETw5THRbCSINbVFNU21ccRd6RBdRA3dTBg/', 1)
+('http://kino-rooms.pw/static/FgVETHFKXxsbGx4hMhpMXHAzF1cqBzoZVi84RSEBECEPdhQQDzBTcxN_RR1EA38FVQ4EZk1Q/', 1)
+('http://aydioknigi.moy.su/news/serija_prigraniche_12_knig/2014-03-01-6054', 1) == audiobooks
+('http://aydioknigi.moy.su/news/serija_prigraniche_12_knig/2014-03-01-6054', 1)
+('http://aydioknigi.moy.su/news/serija_prigraniche_12_knig/2014-03-01-6054', 1)
+('http://img13.poco.cn/mypoco/myphoto/20121021/18/664253682012102118160613THX.jpg', 1) == image/social
+('http://img13.poco.cn/mypoco/myphoto/20121021/18/664253682012102118160613THX.jpg', 1)
+('http://img13.poco.cn/mypoco/myphoto/20121021/18/664253682012102118160613THX.jpg', 1)
+('http://piss-on-teen.taboo.cc/images/cache/140x115/281.211.620704831.jpg', 2) == porn
+('http://piss-on-teen.taboo.cc/images/cache/200x150/119.101.358111217.jpg', 2)
+('http://piss-on-teen.taboo.cc/images/cache/200x150/119.101.358111217.jpg', 2)
+('http://spb.move.su/im/sf_bot.png', 1) == real estate
+('http://spb.move.su/i/images/bg.png/', 1)
+('http://spb.move.su/im/b.png', 1)
+('http://www.pornex.com/post/1025/ashley-bond.html', 1) == porn
+('http://www.pornex.com/post/55012/real-pussy-gets-pounded-by-black-cok.html', 1)
+('http://www.pornex.com/post/1025/ashley-bond.html', 1)
+('http://www.awmads.com/ad.php', 11) == ad
+('http://www.awmads.com/ad.php', 11)
+('http://www.awmads.com/ad.php', 11)
+('http://rx0zz.watchmovies.servverjam.xyz/', 1) == ad
+('http://rx0zz.watchmovies.servverjam.xyz/', 1)
+('http://rx0zz.watchmovies.servverjam.xyz/', 1)
+('http://i.sex-hq.com/str/thumbs/3618/3618306.jpg', 1) == porn
+('http://i.sex-hq.com/str/thumbs/3355/3355301.jpg', 1)
+('http://i.sex-hq.com/str/thumbs/3428/3428135.jpg', 1)
+('http://ic.79a93566.0fc802.1.valve.loris.llnwd.net/', 1) == ???
+('http://ic.79a93566.0fc802.1.valve.loris.llnwd.net/', 1)
+('http://ic.79a93566.0fc802.1.valve.loris.llnwd.net/', 1)
+('http://bmc-co.com/index.php/component/banners/etc/passwd%00', 1) == Corp/hacking
+('http://bmc-co.com/index.php/component/banners/etc/passwd%00', 1)
+('http://bmc-co.com/etc/passwd%00/6/', 1)
+('http://boisegolfguide.com/golf-deals', 1) == sport
+('http://boisegolfguide.com/golf-deals', 1)
+('http://boisegolfguide.com/golf-deals', 1)
+('http://doorbellsound.org/', 1) == landing
+('http://doorbellsound.org/', 1)
+('http://doorbellsound.org/', 1)
+('http://ajwzw.com/', 1) == forums
+('http://ajwzw.com/', 1)
+('http://ajwzw.com/', 1)
+('http://download.iobit.com/bitdefender/data_1420508881/32/patches.dat.gz', 1) == software
+('http://download.iobit.com/bitdefender/data_1420508881/32/patches.dat.gz', 1)
+('http://download.iobit.com/bitdefender/data_1420508881/32/versions.dat', 2)
+('http://hopestreetpsychotherapy.org/', 1) == landing
+('http://hopestreetpsychotherapy.org/', 1)
+('http://hopestreetpsychotherapy.org/', 1)
+('http://jena.markmail.org/search/BadURIException', 1) == maillist/software
+('http://jena.markmail.org/search/BadURIException', 1)
+('http://jena.markmail.org/search/BadURIException', 1)
+('http://www.girls.fr/forum/ind', 2) == Corp
+('http://www.girls.fr/forum/ind', 2)
+('http://www.girls.fr/forum/ind', 2)
+('http://www.analogueseduction.net/spade-connectors/wbt-0661-nextgen-sandwich-spade-silver.html', 1) == internet shop
+('http://www.analogueseduction.net/ecosse-reference-interconnects/ecosse-reference-the-best-boy-rca-interconnects.html', 1)
+('http://www.analogueseduction.net/spade-connectors/wbt-0661-nextgen-sandwich-spade-silver.html', 1)
+('http://i61.tinypic.com/2cx9udz.jpg', 1) == images
+('http://i61.tinypic.com/2cx9udz.jpg', 1)
+('http://i61.tinypic.com/m8eb8z.jpg', 1)
+('http://www.onlinestore.it/renewSession.asp', 3) == internet shop
+('http://www.onlinestore.it/files/onlinestore_Files/Foto/481071.JPG', 1)
+('http://www.onlinestore.it/ReadySkins/Skin6/images/', 1)
+('http://ads.goldiran.ir/showad.aspx', 6) == internet shop
+('http://ads.goldiran.ir/showad.aspx', 6)
+('http://ads.goldiran.ir/showad.aspx', 6)
+('http://celebritysonnet.de/MyBB/index.php', 1) == Corp
+('http://celebritysonnet.de/MyBB/index.php', 1)
+('http://celebritysonnet.de/MyBB/index.php', 1)
+('http://hrable.heureka.sk/wolf-garten-ui-m/porovnat-ceny/', 1) == internet shop
+('http://hrable.heureka.sk/wolf-garten-ui-m/porovnat-ceny/', 1)
+('http://hrable.heureka.sk/wolf-garten-ui-m/porovnat-ceny/', 1)
+('http://territory-nya.clan.su/forum/12-734-1+++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:11105', 1) == gaming / hacking attepmt
+('http://territory-nya.clan.su/forum/12-734-1+++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:11105', 1)
+('http://territory-nya.clan.su/forum/12-734-1+++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:11105', 1)
+('http://body-tox.com/index.php', 1) 
+('http://body-tox.com/index.php//etc/passwd%00/', 1) == Corp / hacking attempt
+('http://body-tox.com/etc/passwd%00/orderDesc/', 1)
+('http://i.af.moshimo.com/af/i/impression', 2) == news
+('http://i.af.moshimo.com/af/i/impression', 2)
+('http://i.af.moshimo.com/af/i/impression', 2)
+('http://z1310.takru.com/in.php', 1) == ad 
+('http://z1310.takru.com/cl.php', 2)
+('http://z1310.takru.com/in.php', 1)
+('http://programkuliahsiang-pmb-manggaraibarat.ggforum.net/_b.php', 1) == Corp
+('http://programkuliahsiang-pmb-manggaraibarat.ggforum.net/_b.php', 1)
+('http://programkuliahsiang-pmb-manggaraibarat.ggforum.net/_b.php', 1)
+('http://oshiete.xgoo.jp/ask/induction/shirahama/70_70.jpg', 1) == news
+('http://oshiete.xgoo.jp/ask/induction/shirahama/70_70.jpg', 1)
+('http://oshiete.xgoo.jp/images/portal_qa/new_btn_b.png', 1)
+('http://mshop.rediff.com/product/casio-enticer-mens-mtp-1299-d-1-avdf-mens-personalized-watch', 1) == internet shop
+('http://mshop.rediff.com/product/jockey-blue-shorts-men', 1)
+('http://mshop.rediff.com/product/puma-blue-solid-short-men', 1)
+('http://track.climaxcontrol.pl/banner/', 2) == ad
+('http://track.climaxcontrol.pl/banner/', 2)
+('http://track.climaxcontrol.pl/banner/', 2)
+('http://www.kdukvh.com/t775o269P/x38/260/MLSLLOLN/OOQQRSM/L/QSOSLNROTOMQNMTOUR/L/L/L', 1) == ad
+('http://www.kdukvh.com/t775o269P/x38/260/MLSLLOLN/OOQQRSM/L/QSOSLNROTOMQNMTOUR/L/L/L', 1)
+('http://www.kdukvh.com/c9102gv32N/v16/KLJOMSQO/QKPLRNQ/J/LJJPJJQSSJKKMSLPPJ/tMJSyuwvSPtMKKxNRLtQKRJMQMJvuuyK', 1)
+('http://hertscommissioner.org/', 1) == gov
+('http://hertscommissioner.org/', 1)
+('http://hertscommissioner.org/', 1)
+('http://forum.11-15.net/', 1) == landing
+('http://forum.11-15.net/', 1)
+('http://forum.11-15.net/', 1)
+('http://img100-754.xvideos.com/videos/thumbs/61/0b/96/610b965457ab827850f83ba26316a0e8/610b965457ab827850f83ba26316a0e8.27.jpg', 1) == porn
+('http://img100-754.xvideos.com/videos/thumbs/07/be/09/07be09d72c0fd9305b3de186411b27ba/07be09d72c0fd9305b3de186411b27ba.11.jpg', 1)
+('http://img100-754.xvideos.com/videos/thumbs/47/d8/e9/47d8e9f1b308b91d3b5b924da6ef92c2/47d8e9f1b308b91d3b5b924da6ef92c2.29.jpg', 1)
+('http://ma-hastim.com/finder/files/weblog/HosFatemiTerr1.jpg', 1) == news
+('http://ma-hastim.com/finder/files/weblog/HosFatemiTerr2.jpg', 1)
+('http://ma-hastim.com/finder/files/weblog/HosFatemiTerr2.jpg', 1)
+('http://widgets.amung.us/small/00/38.png', 1) == ad
+('http://widgets.amung.us/small/00/46.png', 1)
+('http://widgets.amung.us/small/12/1222.png', 1)
+('http://img100-376.xvideos.com/videos/thumbs/98/fc/b5/98fcb5afa7889a0b8d5448176658a381/98fcb5afa7889a0b8d5448176658a381.8.jpg', 1) == porn
+('http://img100-376.xvideos.com/videos/thumbslll/0d/99/cd/0d99cd4e81c64eaaae5f17b835999095/0d99cd4e81c64eaaae5f17b835999095.3.jpg', 1)
+('http://img100-376.xvideos.com/videos/thumbs/98/fc/b5/98fcb5afa7889a0b8d5448176658a381/98fcb5afa7889a0b8d5448176658a381.6.jpg', 1)
+('http://boletin-turistico.com/etc/passwd%00/hoteles/', 1) == Corp / hacking
+('http://boletin-turistico.com/index.php/eventos%27/', 1)
+('http://boletin-turistico.com/index.php/eventos%27/', 1)
+('http://www.compassfellowshipchurch.com/templates/ja_edenite/2wmyzpwk.php', 1) == Corp / religion
+('http://www.compassfellowshipchurch.com/templates/ja_edenite/2wmyzpwk.php', 1)
+('http://www.compassfellowshipchurch.com/templates/ja_edenite/2wmyzpwk.php', 1)
+('http://s248.meetrics.net/bb-mxad/gettag', 2) == Corp
+('http://s248.meetrics.net/bb-mxad/gettag', 2)
+('http://s248.meetrics.net/bb-mxad/gettag', 2)
+('http://forum.shipilov.com/index.php', 1) == news / politics
+('http://forum.shipilov.com/index.php', 1)
+('http://forum.shipilov.com/index.php', 1)
+('http://www.homedepot.ca/webapp/wcs/stores/servlet/InventoryAvailabilityView', 2) == internet shop
+('http://www.homedepot.ca/webapp/wcs/stores/servlet/InventoryAvailabilityView', 2)
+('http://www.homedepot.ca/async-fetch-regional-price', 4)
+('http://off-road.ge/forum/index.php', 1) == cars / forum
+('http://off-road.ge/forum/index.php', 1)
+('http://off-road.ge/forum/index.php', 1)
+('http://s.castalba.tv/r.php', 2) == online tv / news
+('http://s.castalba.tv/r.php', 2)
+('http://s.castalba.tv/r.php', 2)
+('http://go.xxxsummer.net/i/38229.small.jpg', 1) == porn
+('http://go.xxxsummer.net/i/38199.small.jpg', 1)
+('http://go.xxxsummer.net/i/38229.small.jpg', 1)
+('http://www.hopescience.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php', 1) == medical
+('http://www.hopescience.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php', 1)
+('http://www.hopescience.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php', 1)
+('http://cnhxdieev.6dwk0hugs0.com/TU7G4TsQcVd7d0V1x2KnMKCU4Llxjb4EYu7xKCcZKHmzpZf8gmaOAznRC3OpZt_UifJf9eE88hoNDihAuKm4w0fznbJQHOJ7fcsz2UrBG64', 1) == virus/crapware
+('http://cnhxdieev.6dwk0hugs0.com/TU7G4TsQcVd7d0V1x2KnMKCU4Llxjb4EYu7xKCcZKHmzpZf8gmaOAznRC3OpZt_UifJf9eE88hoNDihAuKm4w0fznbJQHOJ7fcsz2UrBG64', 1)
+('http://cnhxdieev.6dwk0hugs0.com/TU7G4TsQcVd7d0V1x2KnMKCU4Llxjb4EYu7xKCcZKHmzpZf8gmaOAznRC3OpZt_UifJf9eE88hoNDihAuKm4w0fznbJQHOJ7fcsz2UrBG64', 1)
+('http://megaconcursos.com/wp-content/uploads/2014/12/LOGO-TRANSCON-Recuperado-Recuperado-Recuperado-Recuperado-Recuperado13.png', 1) == news
+('http://megaconcursos.com/wp-content/uploads/2014/10/LOGO-TRANSCON-Recuperado-Recuperado3.png', 1)
+('http://megaconcursos.com/wp-content/uploads/2014/10/LOGO-TRANSCON-Recuperado-Recuperado3.png', 1)
+('http://usr.marketgid.com/demo/goods/', 1) == ad
+('http://usr.marketgid.com/demo/goods/', 1)
+('http://usr.marketgid.com/demo/goods/', 1)
+('http://www.mediasmarthome.com/forum/thread/78580/Factory-Reset-with-New-HDD/+Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9583', 1) == Corp / hacking attempt
+('http://www.mediasmarthome.com/forum/thread/78580/Factory-Reset-with-New-HDD/+Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9583', 1)
+('http://www.mediasmarthome.com/forum/thread/78580/Factory-Reset-with-New-HDD/+Result:+%E8%F1%EF%EE%EB%FC%E7%F3%E5%EC+SOCKS+192.168.0.90:9583', 1)
+('http://www.omniglot.com/images/logos/header_logo.gif', 1) == internet shop
+('http://www.omniglot.com/language/phrases/burmese.php', 1)
+('http://www.omniglot.com/images/logos/header_logo.gif', 1)
+('http://forum.ubuntu.ir/Themes/ubuntu-ir-theme/images/icons/last_post.gif', 1) == software
+('http://forum.ubuntu.ir/Themes/ubuntu-ir-theme/images/topic/veryhot_post_sticky.gif', 1)
+('http://forum.ubuntu.ir/Themes/ubuntu-ir-theme/images/topic/veryhot_post_sticky.gif', 1)
+('http://bnnreports.com/wp-content/plugins/wp-shopping-cart/image_processing.php', 1) == news
+('http://bnnreports.com/wp-content/plugins/wp-shopping-cart/image_processing.php', 1)
+('http://bnnreports.com/wp-content/plugins/wp-shopping-cart/image_processing.php', 1)
+('http://tv-show.at.ua/publ/russkie_tv_show/realiti_shou/bitva_ehkstrasensov_12_13_14_sezon_smotret_onlajn/7-1-0-8', 1) == online tv
+('http://tv-show.at.ua/publ/russkie_tv_show/realiti_shou/bitva_ehkstrasensov_12_13_14_sezon_smotret_onlajn/7-1-0-8', 1)
+('http://tv-show.at.ua/publ/russkie_tv_show/realiti_shou/bitva_ehkstrasensov_12_13_14_sezon_smotret_onlajn/7-1-0-8', 1)
+('http://psihea.diary.ru/robots.txt', 1) == blog
+('http://psihea.diary.ru/robots.txt', 1)
+('http://psihea.diary.ru/robots.txt', 1)
+('http://lending.pp.ua/lom', 1)  == ???
+('http://lending.pp.ua/lom', 1-
+('http://lending.pp.ua/lom', 1)
+('http://buscameucep.com.br/action/', 1) == news
+('http://buscameucep.com.br/action/', 1)
+('http://buscameucep.com.br/action/', 1)
+('http://sir-jasper-says-spread-em.tumblr.com/', 1) == porn
+('http://sir-jasper-says-spread-em.tumblr.com/', 1)
+('http://sir-jasper-says-spread-em.tumblr.com/', 1)
+('http://velikii-sever.clan.su/register+++++++++++++++++++++++++++++Result:+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC+SOCKS+192.168.0.90:11867', 1) == gaming / hacking attempt
+('http://velikii-sever.clan.su/register+++++++++++++++++++++++++++++Result:+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC+SOCKS+192.168.0.90:11867', 1)
+('http://velikii-sever.clan.su/register+++++++++++++++++++++++++++++Result:+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC+SOCKS+192.168.0.90:11867', 1)
+('http://www.gofeminin.de/world/communaute/users/inscription.asp', 2)== Corp/entertaiment
+('http://www.gofeminin.de/reloaded/api/user-light/24018815', 1)
+('http://www.gofeminin.de/reloaded/api/user-light/24018815', 1)
+('http://hvafpfzc/', 1) == ???
+('http://hvafpfzc/', 1)
+('http://hvafpfzc/', 1)
+('http://www.bridge-casablanca.com/en', 1)  == Hotel
+('http://www.bridge-casablanca.com/en', 1)
+('http://www.bridge-casablanca.com/', 1)
+('http://daynghetocgiare.com/forum/newthread.php', 49) == Info
+('http://daynghetocgiare.com/forum/member.php', 24)
+('http://daynghetocgiare.com/forum/newthread.php', 49)
+('http://79.125.6.190/eebrowser/ipad/2_2i.ver/ajax-request.php', 1) == ???
+('http://79.125.6.190/eebrowser/ipad/2_2i.ver/ajax-request.php', 1)
+('http://79.125.6.190/eebrowser/ipad/2_2i.ver/ajax-request.php', 1)
+('http://otvet.mail.ru/api/notify/show_bulk', 2) == Info
+('http://otvet.mail.ru/api/notify/bulk_viewed', 2)
+('http://otvet.mail.ru/images/body-bg.png', 2)
+('http://14.0.67.55/Published/XecureExpressI/v2.7.2.1/xei_control2.exe', 1) == software
+('http://14.0.67.55/Published/XecureExpressI/v2.7.2.1/xei_control2.exe', 1)
+('http://14.0.67.55/Published/XecureExpressI/v2.7.2.1/xei_control2.exe', 1)
+('http://a5d0b33c60bcf27ac75b6aee0100ac238.profile.mnl50.cloudfront.net/test.png', 1) == hosting
+('http://a5d0b33c60bcf27ac75b6aee0100ac238.profile.mnl50.cloudfront.net/test.png', 1)
+('http://a5d0b33c60bcf27ac75b6aee0100ac238.profile.mnl50.cloudfront.net/test.png', 1)
+('http://open.lge.co.kr/link/it/2015/promo/monitor/january/academy/gmarket/img/01.jpg', 1) == Corp / hardware
+('http://open.lge.co.kr/link/it/2015/promo/monitor/january/academy/auction/img/01.jpg', 1)
+('http://open.lge.co.kr/link/it/2015/promo/monitor/january/academy/gmarket/img/01.jpg', 1)
+('http://www.pharmatherapist.com/oxnu.html', 4) == medical / info
+('http://www.pharmatherapist.com/oxnu.html', 4)
+('http://www.pharmatherapist.com/oxnu.html', 4)
+('http://img100-254.xvideos.com/videos/thumbslll/b2/66/6c/b2666c9bca994ff83ad13582f111b6d5/b2666c9bca994ff83ad13582f111b6d5.28.jpg', 1) == porn
+('http://img100-254.xvideos.com/videos/thumbs/16/43/2f/16432f5dac46714fd2a32394dab60ef8/16432f5dac46714fd2a32394dab60ef8.15.jpg', 1)
+('http://img100-254.xvideos.com/videos/thumbs/6a/67/22/6a672230503cb5d6be92469caf57b2a2/6a672230503cb5d6be92469caf57b2a2.15.jpg', 1)
+('http://www.volkswagen-t3.com/index.php', 1) == corp / cars
+('http://www.volkswagen-t3.com/index.php', 1)
+('http://www.volkswagen-t3.com/index.php', 1)
+('http://xn--r1adj.xn--p1ai/', 2) === ???
+('http://xn--r1adj.xn--p1ai/', 2)
+('http://xn--r1adj.xn--p1ai/', 2)
+('http://io3-ltx221.livetex.ru/poll/8gwm3/1420629144051', 1) == ???
+('http://io3-ltx221.livetex.ru/poll/8q9pc/1420645091063', 1)
+('http://io3-ltx221.livetex.ru/visitor/set-invite', 1)
+('http://cs419717.vk.me/v419717506/234e/5zjWYwIGp2o.jpg', 1) == social network
+('http://cs419717.vk.me/v419717506/234e/5zjWYwIGp2o.jpg', 1)
+('http://cs419717.vk.me/v419717506/234e/5zjWYwIGp2o.jpg', 1)
+('http://ads.it.bestshopping.com/cb_v1_120x60.gif', 1) == internet shop
+('http://ads.it.bestshopping.com/cb_v1_120x60.gif', 1)
+('http://ads.it.bestshopping.com/cb_v1_120x60.gif', 1)
+('http://dp72.ru/list/catalog', 1) == news
+('http://dp72.ru/list/catalog', 1)
+('http://dp72.ru/board/concrete-2251/', 1)
+('http://static.finansemble.fr/banniere/Finansemble-logo_120-120.gif', 1) == internet shop
+('http://static.finansemble.fr/banniere/Finansemble-logo_120-120.gif', 1)
+('http://static.finansemble.fr/banniere/Finansemble-logo_120-120.gif', 1)
+('http://creativa.web.id/membuat-blog-dan-kategori-drupal/', 1) ==  ???
+('http://creativa.web.id/membuat-blog-dan-kategori-drupal/', 1)
+('http://creativa.web.id/membuat-blog-dan-kategori-drupal/', 1)
+('http://anspb.ru/images/icons/banks/13.png', 2) == real estate
+('http://anspb.ru/images/img-b-08.png', 1)
+('http://anspb.ru/images/footer.gif', 2)
+('http://hkbest.org/video/vip/5166/muzyka/mikhail_krug_tishina', 1) == translation / Corp
+('http://hkbest.org/video/vip/5166/muzyka/mikhail_krug_tishina', 1) 
+('http://hkbest.org/video/vip/5166/muzyka/mikhail_krug_tishina', 1)
+('http://brooksconsulting.com/etc/passwd%00/who-we-are/principles/', 1) == Corp /hacking attempt
+('http://brooksconsulting.com/etc/passwd%00/who-we-are/principles/', 1)
+('http://brooksconsulting.com/en/company/who-we-are//etc/passwd%00/', 1)
+('http://cs617729.vk.me/v617729528/8578/167tNqkMDuI.jpg', 1) == social network
+('http://cs617729.vk.me/v617729528/8578/167tNqkMDuI.jpg', 1)
+('http://cs617729.vk.me/v617729528/8578/167tNqkMDuI.jpg', 1)
+('http://gazo.emoji7.jp/img/059ha_774386/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88%2A%E3%82%9C_m.gif', 3) == image hosting
+('http://gazo.emoji7.jp/img/059ha_774386/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88%2A%E3%82%9C_m.gif', 3)
+('http://gazo.emoji7.jp/img/04lx8_707388/%2A%E3%81%AF%E3%81%A6%E3%81%AA%2A_m.gif', 3)
+('http://www.hansungs.co.kr/pdf/compactseal.pdf', 1) ==  Corp
+('http://www.hansungs.co.kr/pdf/compactseal.pdf', 1)
+('http://www.hansungs.co.kr/pdf/compactseal.pdf', 1)
+('http://bmist.forumpro.fr/t65791-module-accelerator-f800r', 1) == forum / cars
+('http://bmist.forumpro.fr/t65791-module-accelerator-f800r', 1)
+('http://bmist.forumpro.fr/robots.txt', 1)
+('http://hearthandsoul.com/simplemachinesforum/index.php', 1) == ???
+('http://hearthandsoul.com/simplemachinesforum/index.php', 1)
+('http://hearthandsoul.com/simplemachinesforum/index.php', 1)
+('http://softwarnews.com/link.php', 1) == webmail
+('http://softwarnews.com/link.php', 1)
+('http://softwarnews.com/link.php', 1)
+('http://www.leadershipclinton.org/', 1) == Corp
+('http://www.leadershipclinton.org/', 1)
+('http://www.leadershipclinton.org/', 1)
+('http://ws.pap.fr/cdnV1/5238bc96b3d55c8890b7e059/5238bc96b3d55c8890b7e059-1391202198-111x84.jpg', 2) == real estate
+('http://ws.pap.fr/cdnV1/5238bdabb3d55c8890b7e98a/5238bdabb3d55c8890b7e98a-1391202348-111x84.jpg', 2)
+('http://ws.pap.fr/cdnV1/5238d28eb3d55c86db6f0b69/5238d28eb3d55c86db6f0b69-1391205202-111x84.jpg', 2)
+('http://stan.mxp22.com/1e4e0929227f3f3585a9821b61deaf2d3900cb0ac064701a4b8d7a4d84fbb89a2e915eafa370ae5e969a371ff780f0a7d8eaa6bf73e43b29901f73fe67368e861ef3d02fa20676cd64d503a445f44b51d8f546638a75e5a779b460dc8ea', 1) == ad
+('http://stan.mxp22.com/', 1)
+('http://stan.mxp22.com/1e4e0929227f3f3585a9821b61deaf2d3900cb0ac064701a4b8d7a4d84fbb89a2e915eafa370ae5e969a371ff780f0a7d8eaa6bf73e43b29901f73fe67368e861ef3d02fa20676cd64d503a445f44b51d8f546638a75e5a779b460dc8ea', 1)
+('http://www.e-estekhdam.com/wp-content/themes/purple/assets/img/employers_2.png', 1) == jobs / hr
+('http://www.e-estekhdam.com/wp-includes/images/smilies/icon_wink.gif', 1)
+('http://www.e-estekhdam.com/wp-content/themes/purple/assets/css/fonts/BBCNassim.woff', 1)
+('http://pchardware.com.mx/', 1) == internet shop / Corp
+('http://pchardware.com.mx/', 1)
+('http://pchardware.com.mx/', 1)
+('http://www.bimmertoday.de/wp-content/uploads/BMW-1er-M-Coup%C3%A9-Wallpaper-1920x1200-09-655x409.jpg', 1) == Cars/blog
+('http://www.bimmertoday.de/wp-content/uploads/BMW-1er-M-Coup%C3%A9-Wallpaper-1920x1200-09-655x409.jpg', 1)
+('http://www.bimmertoday.de/wp-content/uploads/BMW-1er-M-Coup%C3%A9-Wallpaper-1920x1200-09-655x409.jpg', 1)
+('http://nudematurexxx.com/wowo/thumbs/46/909_Horny_fucker.jpg', 1) == porn
+('http://nudematurexxx.com/wowo/thumbs/53/150_granny_granny.jpg', 1)
+('http://nudematurexxx.com/wowo/thumbs/39/505_her_big.jpg', 1)
+('http://jobinbreton.blogspot.fr/2011/11/userhearvoxlogin-form.html', 1) == blog
+('http://jobinbreton.blogspot.fr/2011/11/seo-and-sem-for-it-software-company.html', 1)
+('http://jobinbreton.blogspot.fr/2011/11/userhearvoxlogin-form.html', 1)
+('http://craziesclan.com/modules.php', 1) == gaming
+('http://craziesclan.com/modules.php', 1)
+('http://craziesclan.com/modules.php', 1)
+('http://cdn.imrworldwide.com/cgi-bin/zp/7/z', 1) == ???
+('http://cdn.imrworldwide.com/cgi-bin/zp/7/z', 1)
+('http://cdn.imrworldwide.com/cgi-bin/zp/7/z', 1)
+('http://vaz.autoportal.ua/sales/vaz-2105/5469402.html', 1) == Cars
+('http://vaz.autoportal.ua/sales/vaz-2105/5469402.html', 1)
+('http://vaz.autoportal.ua/sales/vaz-2105/5469402.html', 1)
+('http://teenel.com/su/in.cgi', 1) == Landing / hacking attempt
+('http://teenel.com/su/in.cgi', 1)
+('http://teenel.com/su/in.cgi', 1)
+('http://www.planetxgirl.net/', 1) == porn
+('http://www.planetxgirl.net/', 1)
+('http://www.planetxgirl.net/img/rh.jpg', 1)
+('http://bs.mail.ru/count/U_4amYGH3by40X00gP800OwtQLST1MnPYBhJ0H04agcEPWEcG8e1gW6bbHmwaRpGIMG6auKDGQxswDfur72lu0In0RlhwnEnLdlHL7W8', 3) == webmail
+('http://bs.mail.ru/count/U_4amYGH3by40X00gP800OwtQLST1MnPYBhJ0H04fa2A0Qe1fPKSEf6yq4ba1fE53K6kzkZQUDHmh-04iG6xw-iJiLPxqLHx1m00,bs.mail.ru,615858871369050861,1559826410', 1)
+('http://bs.mail.ru/count/U_4amYGH3by40X00gP800OwtQLST1MnPYBhJ0H04fa2A0Qe1fPKSEf6yq4ba1fE53K6kzkZQUDHmh-04iG6xw-iJiLPxqLHx1m00,bs.mail.ru,615858871369050861,1559826410', 1)
+('http://image.samanyoluhaber.com/Images/video/20150108/8OexewCZrT_s.jpg', 2) == news
+('http://image.samanyoluhaber.com/Images/News/20141121/99311527_benzin_m.jpg', 2)
+('http://image.samanyoluhaber.com/Images/News/20150106/73830138_tasarruf.jpg', 2)
+('http://dachi-vrn.narod.ru/dom_derev.html', 1) == real estate
+('http://dachi-vrn.narod.ru/dom_derev.html', 1)
+('http://dachi-vrn.narod.ru/robots.txt', 1) == online storage
+('http://www.uploaded.net/', 1)
+('http://www.uploaded.net/', 1)
+('http://www.uploaded.net/', 1)
+('http://logc218.xiti.com/hit.xiti', 4) == ad
+('http://logc218.xiti.com/hit.xiti', 4)
+('http://logc218.xiti.com/hit.xiti', 4)
+('http://91.205.99.32/tgp/thumbs2/stream_320x240/186/aaaf8e.jpg', 1) == porn
+('http://91.205.99.32/tgp2/thumbs2/stream_320x240/163/12b371.jpg', 1)
+('http://91.205.99.32/tgp2/thumbs/stream/124/25a367.jpg', 1)
+('http://transsiberiantrains.co.uk/wp-content/themes/Automobile/library/functions/fr_FR/scr.php', 2) == cars
+('http://transsiberiantrains.co.uk/wp-content/themes/Automobile/library/functions/fr_FR/scr.php', 2)
+('http://transsiberiantrains.co.uk/wp-content/themes/Automobile/library/functions/fr_FR/scr.php', 2)
+('http://www.stevelim.com/guestbook/', 1) == blog
+('http://www.stevelim.com/guestbook/', 1)
+('http://www.stevelim.com/guestbook/index.html', 2)
+('http://img100-586.xvideos.com/videos/thumbs/f2/13/78/f21378345aba426c8a113282f977d432/f21378345aba426c8a113282f977d432.26.jpg', 1) == porn
+('http://img100-586.xvideos.com/videos/thumbs/58/43/c6/5843c68657e993e9652f46c07c6157dc/5843c68657e993e9652f46c07c6157dc.24.jpg', 1)
+('http://img100-586.xvideos.com/videos/thumbs/b9/f5/9c/b9f59c0927e7cf819a6b46984dad1c0e/b9f59c0927e7cf819a6b46984dad1c0e.29.jpg', 1)
+('http://blairair.com/etc/passwd%00/', 1) == hack attempt
+('http://blairair.com/etc/passwd%00/', 1)
+('http://blairair.com/etc/passwd%00/', 1)
+('http://3.bild.poppen.de/fsk16/3/5/9/4498718-359D2BE55BA81A956E0C5CC5E77DD32D_100.jpg', 1) == porn
+('http://3.bild.poppen.de/fsk16/3/8/7/3493-3873672DEC436FC4986AFC983075742B_cropmedium.jpg', 1)
+('http://doonschool.org/', 1) == elearning
+('http://doonschool.org/', 1)
+('http://doonschool.org/', 1)
+('http://avt-11.foto.mail.ru/mail/nadejda_9088/_avatarsmall', 1) == image hosting
+('http://avt-11.foto.mail.ru/mail/nadejda_9088/_avatarsmall', 1)
+('http://avt-11.foto.mail.ru/mail/nadejda_9088/_avatarsmall', 1)
+('http://brador.com/index.php/etc/passwd%00', 1) == hacking attempt
+('http://brador.com/index.php/es/etc/passwd%00', 1)
+('http://brador.com/index.php/etc/passwd%00', 1)
+('http://www.iafd.com/person.rme/perfid=MalloryRae/gender=f/Mallory-Rae-Murphy.htm', 1) ==  movies/db
+('http://www.iafd.com/graphics/headshots/thumbs/th_malloryrae_f_malloryrae_lad.jpg', 1)
+('http://www.iafd.com/title.rme/title=it%27s+okay+she%27s+my+stepdaughter+3/year=2010/it&apos', 1)
+('http://kamni-ufa.ru/images/gorodkamnya/ramka.png', 1) == corp/sales
+('http://kamni-ufa.ru/images/gorodkamnya/rita/interier/arki/f5uvbdks4ie1.jpg', 1)
+('http://kamni-ufa.ru/images/gorodkamnya/vk.png', 1)
+('http://cs625124.vk.me/v625124163/10c8/_S663k1ffLM.jpg', 1) == social network
+('http://cs625124.vk.me/v625124163/10c8/_S663k1ffLM.jpg', 1)
+('http://cs625124.vk.me/v625124163/10c8/_S663k1ffLM.jpg', 1)
+('http://upic.me/i/e3/emo_060.gif', 1) == image hosting
+('http://upic.me/i/ot/197anigif.gif', 1)
+('http://upic.me/i/e3/emo_060.gif', 1)
+('http://www.surpriselock.com/index.php', 1) == corp
+('http://www.surpriselock.com/index.php', 1)
+('http://www.surpriselock.com/index.php', 1)
+('http://www.kino-su.tk/video/vip/1506/jumor/igrushki', 1) == movies
+('http://www.kino-su.tk/video/vip/1506/jumor/igrushki', 1)
+('http://www.kino-su.tk/video/vip/1506/jumor/igrushki', 1)
+('http://bjbv.com/index.php', 5) == corp
+('http://bjbv.com/index.php', 5)
+('http://bjbv.com/index.php', 5)
+('http://www.in-ist-drin.de/requests/heuteOnline.php', 6) == dating
+('http://www.in-ist-drin.de/requests/heuteOnline.php', 6)
+('http://www.in-ist-drin.de/index.php', 4)
+('http://rutracker.org/forum/index.php', 17) == filesharing
+('http://rutracker.org/forum/index.php', 17)
+('http://rutracker.org/forum/index.php', 17)
+('http://img175.imagevenue.com/loc92/th_095399136_077_122_92lo.jpg', 1) == porn
+('http://img175.imagevenue.com/loc249/th_01614_DSC_5303_123_249lo.JPG', 2)
+('http://img175.imagevenue.com/loc159/th_44407_e74dfb509b3397fcb3a93d4167132b96_123_159lo.jpg', 1)
+('http://actualincesttube.com/images/logo.png', 1) == porn
+('http://actualincesttube.com/', 1)
+('http://actualincesttube.com/images/logo.png', 1)
+('http://forum.gadgets.ndtv.com//letter_avatar/mathew_m/22/2.png', 1) == forum/shop
+('http://forum.gadgets.ndtv.com//letter_avatar/swastik/22/2.png', 1)
+('http://forum.gadgets.ndtv.com//letter_avatar/samreen/22/2.png', 1)
+('http://s15.rimg.info/36cd2cdf76b2bc93148b7e462b9325d7.gif', 1) == image hosting
+('http://s15.rimg.info/36cd2cdf76b2bc93148b7e462b9325d7.gif', 1)
+('http://s15.rimg.info/b9f2298a1ac978e7a9d09fcbd2a1ad66.gif', 1)
+('http://www.brotherse400.com/wp-content/plugins/count-per-day/notes.php', 1) == corp/sewing
+('http://www.brotherse400.com/wp-content/plugins/wpdatatables/config.inc', 1)
+('http://www.brotherse400.com/wp-content/plugins/participants-database/readme.txt', 1)
+('http://nudeyoga.net/embed/339', 1) == porn
+('http://nudeyoga.net/contents/videos_screenshots/0/220/preview.mp4.jpg', 1)
+('http://nudeyoga.net/get_file/1/7081a9248c5ca7938aa15865f4d386ee/0/342/342.mp4/', 1)
+('http://lookimonline.com/galleries/1/wendy-fiore-diner/wendy-fiore-06.jpg', 1) == porn
+('http://lookimonline.com/galleries/1/wendy-fiore-diner/wendy-fiore-06.jpg', 1)
+('http://lookimonline.com/galleries/1/wendy-fiore/3.jpg', 1)
+('http://static.ad.sunmedia.net/228/thd-banner-300x250-14.gif', 2) == ad/porn
+('http://static.ad.sunmedia.net/228/thd-banner-300x250-06.gif', 1)
+('http://static.ad.sunmedia.net/228/thd-banner-300x250-06.gif', 1)
+('http://img100-000.xvideos.com/videos/thumbs/e5/c6/82/e5c6824dcb61baad306fe35b61a6617d/e5c6824dcb61baad306fe35b61a6617d.8.jpg', 1) == porn
+('http://img100-000.xvideos.com/videos/thumbs/e5/c6/82/e5c6824dcb61baad306fe35b61a6617d/e5c6824dcb61baad306fe35b61a6617d.6.jpg', 1)
+('http://img100-000.xvideos.com/videos/thumbs/ad/02/a4/ad02a4b216fdd9aed1c546dd4f14149f/ad02a4b216fdd9aed1c546dd4f14149f.12.jpg', 1)
